@@ -1,0 +1,43 @@
+#-------------------------------
+# General Site Settings
+title: 1조 프로젝트 
+logo: logo.svg # You can add own logo.
+description: 1조 프로젝트 소개 및 정리 by 고은서
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: 고은서
+  image: 01.jpg
+  say-hello: <strong>1조 프로젝트 소개 및 정리</strong> 
+  bio: 프로젝트 소개, 진행사항 및 개선사항 정리, 선정된 프로젝트 내 개인의 역할 분담 내용
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://facebook.com/ # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
