@@ -10,7 +10,7 @@ Pyxel은 파이썬으로 개발된 레트로 게임 엔진이다. Pyxel로 게�
 
 ___
 
-##Specification
+# Specification
 
 * Window, MAC, Linux 지원
 * Python3으로 코드 작성
@@ -24,7 +24,7 @@ ___
 
 ___
 
-##Install examples
+# Install examples
 
 - [01_hello_pyxel.py](https://github.com/kitao/pyxel/blob/master/pyxel/examples/01_hello_pyxel.py) - Simplest application
 - [02_jump_game.py](https://github.com/kitao/pyxel/blob/master/pyxel/examples/02_jump_game.py) - Jump game with Pyxel resource file
@@ -37,7 +37,7 @@ ___
 
 ___
 
-##How to use
+# How to use
 
 <strong> Create pyxel application </strong><br>
 
@@ -110,7 +110,7 @@ while True:
 
 ___
 
-##Editor
+# Editor
 
 **이미지 에디터:**
 
@@ -141,7 +141,7 @@ ___
 
 ___
 
-##License
+# License
 
 Pyxel is under MIT license. It can be reused within proprietary software provided that all copies of the licensed software include a copy of the MIT License terms and the copyright notice.
 
