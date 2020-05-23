@@ -18,17 +18,17 @@ ___
 팀원 각자 관심있는 프로젝트를 조사하여 1조 토론방에 조사한 내용을 정리<br>
 토론방에 올라온 프로젝트 중, 저희 팀과 프로젝트 구성원들에게 더 도움이 될 수 있는 프로젝트를 단톡방을 통해 선정
 
-* <strong>Pyxel Project</strong>
+* Pyxel Project
 : 대다수의 저희 팀원들이 다룰 수 있는 Python 언어로 작성되었고, Pyxel을 이용하여 만든 게임들에 대해서 개선할 사항들이 다양하므로 프로젝트 진행이 수월할 것이라 판단하였다. 
 
-* <strong>COVID-19 App Project</strong>
+* COVID-19 App Project
 : 코로나앱 프로젝트에 참여하려면 허가를 받아야 하므로 현실적으로 저희 팀이 참여하기 어려울 것 같다고 판단하였다.
 
-* <strong>Amaxon-sagemaker Project</strong>
+* Amaxon-sagemaker Project
 : 인공지능을 이용한 프로젝트로 머신 러닝 같은 인공지능 학습에 도움을 주는 관리형 서비스이다. 하지만 몇 달 안에 저희 팀이 머신 러닝을 공부하고 이 프로젝트를 개발하기엔 무리가 있을 것이라 판단하였다.
 
-* <strong>Sorting Algorithm Project</strong>
+* Sorting Algorithm Project
 : 비교적 간단한 프로젝트로 진행하는 데에 어려움이 없겠지만, 흔한 주제라고 생각되어 좀 더 저희 팀과 프로젝트 구성원들에게 더 많은 도움이 되는 방향의 프로젝트를 선정하고자 하였다.
 
-* <strong>Memory game Project</strong>
+* Memory game Project
 : Java 언어로 작성된 메모리 게임 프로젝트이다. 팀원들 중 Java 언어에 익숙하지 않은 사람도 있었고 UI 등 아직 배우지 못한 것들도 있었기에, 프로젝트를 진행하는데 있어 어려움이 있을 것이라 판단하였다. 
