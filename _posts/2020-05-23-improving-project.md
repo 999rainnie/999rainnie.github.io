@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  프로젝트 개선방안
-date:   2020-05-22 15:01:35 +0300
+date:   2020-05-23 15:01:35 +0300
 image:  06.jpg
-tags:   Style
+tags:   Post
 ---
 
 ## 1. Pyxel editor를 활용하여 직접 게임에 이미지, 사운드, 색깔 등을 추가
@@ -16,8 +16,8 @@ Pyxel editor로 애플리케이션에 이미지와 사운드를 제작할 수 �
 
 pyxel/examples 파일의 세가지 게임을 여러 난이도로 진행할 수 있도록 구현한다. 
 * jump_game.py와 snake_game.py의 속도 조절: 높은 level일수록 빠르게 움직이도록 하여 난이도를 조절할 수 있다. 
-* jump_game.py에서 장애물들을 파괴하는 기능을 추가
-* snake_game.py에서 snake가 먹으면 길이가 줄어드는 장치를 추가
+* jump_game.py에서 장애물들을 파괴하는 기능을 추가한다.
+* snake_game.py에서 snake가 먹으면 길이가 줄어드는 장치를 추가한다.
 
 ---
 
