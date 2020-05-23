@@ -25,7 +25,7 @@ Pyxel editor로 애플리케이션에 이미지와 사운드를 제작할 수 �
 <a href="https://github.com/kitao/pyxel/blob/master/pyxel/examples/02_jump_game.py" target="_blank">
 <img src="https://raw.githubusercontent.com/kitao/pyxel/master/pyxel/examples/screenshots/02_jump_game.gif" width="48%">
 </a>
-<br>
+<br><br>
 
 pyxel/examples 파일의 세가지 게임을 여러 난이도로 진행할 수 있도록 구현한다. 
 * jump_game.py와 snake_game.py의 속도 조절: 높은 level일수록 빠르게 움직이도록 하여 난이도를 조절할 수 있다. 
