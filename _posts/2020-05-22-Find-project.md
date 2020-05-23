@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  프로젝트 선정과정
-date:   2018-06-25 15:01:35 +0300
+date:   2020-05-22 15:01:35 +0300
 image:  04.jpg
 tags:   Style
 ---
