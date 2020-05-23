@@ -8,11 +8,27 @@ tags:   Post
 
 ## 1. Pyxel editor를 활용하여 직접 게임에 이미지, 사운드, 색깔 등을 추가
 
+<a href="https://github.com/kitao/pyxel/blob/master/pyxel/examples/03_draw_api.py" target="_blank">
+<img src="https://raw.githubusercontent.com/kitao/pyxel/master/pyxel/examples/screenshots/03_draw_api.gif" width="48%">
+</a>
+
+<a href="https://github.com/kitao/pyxel/blob/master/pyxel/examples/04_sound_api.py" target="_blank">
+<img src="https://raw.githubusercontent.com/kitao/pyxel/master/pyxel/examples/screenshots/04_sound_api.gif" width="48%">
+</a>
+
+<img src="https://raw.githubusercontent.com/kitao/pyxel/master/pyxel/examples/screenshots/05_color_palette.png">
+<br><br>
+<img src="https://raw.githubusercontent.com/kitao/pyxel/master/images/pyxel_palette.png">
+
 Pyxel editor로 애플리케이션에 이미지와 사운드를 제작할 수 있다. 이를 이용해서 게임에 필요한 이미지와 사운드를 추가하는 방향으로 프로젝트를 개선할 수 있다. 또 현재 게임 디자인에 적용할 수 있는 팔레트 색은 16개인데 이외에 다른 색을 추가한다.
 
 ---
 
 ## 2. Pyxel을 이용한 3가지 게임에 대해 개선할 사항과 추가할 기능들 구현
+
+<a href="https://github.com/kitao/pyxel/blob/master/pyxel/examples/02_jump_game.py" target="_blank">
+<img src="https://raw.githubusercontent.com/kitao/pyxel/master/pyxel/examples/screenshots/02_jump_game.gif" width="48%">
+</a>
 
 pyxel/examples 파일의 세가지 게임을 여러 난이도로 진행할 수 있도록 구현한다. 
 * jump_game.py와 snake_game.py의 속도 조절: 높은 level일수록 빠르게 움직이도록 하여 난이도를 조절할 수 있다. 
@@ -22,6 +38,8 @@ pyxel/examples 파일의 세가지 게임을 여러 난이도로 진행할 수 �
 ---
 
 ## 3. Pyxel을 이용한 새로운 게임을 프로젝트에 추가
+
+<img src=" https://github.com/shivanju/pyxel-games/blob/master/Tetris/tetris_screenshot.png">
 
 현재 project에 없는 새로운 게임들을 추가한다.
 * Tetris
