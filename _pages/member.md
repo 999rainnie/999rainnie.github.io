@@ -28,7 +28,7 @@ GitHub ID: ye-song-lee <br>
 
 이름: 정세린  
 학번:  <br>
-이메일: serin0821@naver.com
+이메일: serin0821@naver.com <br>
 GitHub ID: serinchung <br>
 기여 방안: 정적페이지 편집 
 
