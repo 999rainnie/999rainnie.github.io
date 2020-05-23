@@ -6,6 +6,7 @@ image: 01.jpg
 ---
 
 ## Team member information
+___
 
 이름: 고은서  
 학번: 2018310072<br>
