@@ -3,7 +3,7 @@ layout: post
 title:  "프로젝트 소개"
 date:   2020-05-23 18:05:55 +0300
 image:  03.jpg
-tags:   Jekyll
+tags:   Post
 ---
 
 Pyxel은 파이썬으로 개발된 레트로 게임 엔진이다. Pyxel로 게임을 만들면 16가지 색상과 4개의 사운드를 이용하여 자유롭게 픽셀 아트 스타일 게임을 즐길 수 있다. Pyxel용 게임 콘솔 및 API 사양은 PICO-8 및 TIC-80을 나타내며, 오픈소스로 무료로 사용할 수 있다. 
