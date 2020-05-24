@@ -7,7 +7,8 @@ tags:   Post
 ---
 
 <strong>고은서</strong>  
-* 기여 방안: pyxel을 이용한 3가지 게임에 대해 개선할 사항과 추가할 기능들 구현 & wiki 제작
+* 기여 방안: pyxel을 이용한 3가지 게임에 대해 개선할 사항과 추가할 기능들 구현
+* wiki 제작
 <br><br>
 
 <strong>김연주</strong>  
@@ -15,7 +16,8 @@ tags:   Post
 <br><br>
 
 <strong>이예송</strong>  
-* 기여 방안: pyxel을 이용한 새로운 게임을 프로젝트에 추가 & README.md 제작
+* 기여 방안: pyxel을 이용한 새로운 게임을 프로젝트에 추가
+* README.md 제작
 <br><br>
 
 <strong>정세린</strong>  
